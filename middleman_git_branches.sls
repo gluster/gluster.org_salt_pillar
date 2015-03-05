@@ -1,1 +1,2 @@
-middleman_git_branch: ['master']
+middleman_git_branch: 
+  - 'master'
