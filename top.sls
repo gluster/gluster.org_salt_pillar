@@ -4,3 +4,4 @@ base:
       - middleman_git_branches
       - ssh_fingerprints
       - groups
+      - admins
