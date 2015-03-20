@@ -5,3 +5,5 @@ base:
       - ssh_fingerprints
       - groups
       - admins
+    'salt-master.gluster.org':
+      - cloud_credentials
