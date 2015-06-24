@@ -8,5 +8,7 @@ base:
     - ssh_port
   'slave*.cloud.gluster.org':
     - jenkins_passwords
+  'freebsd0.*':
+    - jenkins_passwords
   'salt-master.gluster.org':
     - cloud_credentials
