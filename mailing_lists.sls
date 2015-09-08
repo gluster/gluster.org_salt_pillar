@@ -1,0 +1,13 @@
+mailing_lists:
+  - gluster-devel
+  - gluster-users
+  - advisors
+  - gluster-infra
+  - bugs
+  - mailman
+  - test
+  - board
+  - announce
+  - cinder.glusterfs.ci
+  - maintainers
+  - packaging

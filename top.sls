@@ -16,3 +16,5 @@ base:
     - jenkins_passwords
   'salt-master.gluster.org':
     - cloud_credentials
+  'www.gluster.org':
+    - mailing_lists
