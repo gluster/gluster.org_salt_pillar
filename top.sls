@@ -16,6 +16,6 @@ base:
     - jenkins_passwords
   'salt-master.gluster.org':
     - cloud_credentials
-  'www.gluster.org':
+  'supercolony.gluster.org':
     - mailing_lists
     - email_aliases
