@@ -18,3 +18,4 @@ base:
     - cloud_credentials
   'www.gluster.org':
     - mailing_lists
+    - email_aliases
