@@ -19,3 +19,4 @@ base:
   'supercolony.gluster.org':
     - mailing_lists
     - email_aliases
+    - smtp_blacklist 
