@@ -20,3 +20,5 @@ base:
     - mailing_lists
     - email_aliases
     - smtp_blacklist 
+  'supercolony-gen1.gluster.org':
+    - bitergia_ssh_keys
