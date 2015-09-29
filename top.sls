@@ -5,7 +5,7 @@ base:
     - ssh_fingerprints
     - groups
     - admins
-    - ssh_port
+    - ssh_settings
   'slave*.cloud.gluster.org':
     - jenkins_passwords
   'centos*.ci.gluster.org':
