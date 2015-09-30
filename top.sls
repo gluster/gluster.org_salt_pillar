@@ -6,6 +6,7 @@ base:
     - groups
     - admins
     - ssh_settings
+    - motd
   'slave*.cloud.gluster.org':
     - jenkins_passwords
   'centos*.ci.gluster.org':
