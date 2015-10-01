@@ -24,3 +24,5 @@ base:
     - smtp_blacklist 
   'supercolony-gen1.gluster.org':
     - bitergia_ssh_keys
+  'freeipa01.rax.gluster.org':
+    - freeipa_passwords 
