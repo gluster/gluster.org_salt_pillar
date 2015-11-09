@@ -7,3 +7,6 @@ motd:
   webbuilder.gluster.org:
     category: Low
     purpose: Built the middleman based website and upload it
+  freeipa01.rax.gluster.org:
+    category: High
+    purpose: Manage authentication with LDAP and Kerberos
