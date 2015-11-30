@@ -26,5 +26,7 @@ base:
     - bitergia_ssh_keys
   'download01.rax.gluster.org':
     - bitergia_ssh_keys
+    - exports_nfs
   'freeipa01.rax.gluster.org':
     - freeipa_passwords 
+
