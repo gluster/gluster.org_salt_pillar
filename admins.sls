@@ -5,3 +5,6 @@ admins:
   justin:
     ssh_keys:
       - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCqmPQ5ZN5Sdru4Lij6WEV/rczN94AwkAljf6xFg7dNTJ+lltgmz892bdaZFJXrChHo5agMo4ENLgGyPX9WKXJjZPEMdhaHIakkSVB34k6dIH/r+g6LewwFkvh76J0y+kgdSSlQrKUeDcPk5YSNiRgxdwox/+LDUYx022QcqhMrf52RwKFtlIjVg+vYch1mskW/1rwAJ8K56z85uivErC/FNJjWxpcomchoKwTpeTkoceLfHggk2JYnWWNAw2bUayRMrnIzgKXmM9iKg+htpmCRBqZdt9ov4dQagu3eST5kR7Umh+2f5cEoBshdpHuxzKKGOuctnO3MYEZ5CqeUIYjP justin@gluster.org
+  kaushal:
+    ssh_keys:
+      - ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAICnqW82gWwYN9BDv2r8fqKnraM+DlcEBmbwejTlUtoYP kaushal@arch
